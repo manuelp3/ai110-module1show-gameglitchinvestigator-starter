@@ -25,9 +25,9 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📝 Document Your Experience
 
-- [ ] Describe the game's purpose.
-- [ ] Detail which bugs you found.
-- [ ] Explain what fixes you applied.
+The purpose of the game is to guess a random number within a cetain amount of guesses, with hints telling the user to go higher or lower.
+I saw that the condition for the guess being greater than the number should output "go lower" and vice versa.
+I applied these fixes, as well as fixing the type mismatch on even inputs, the attempts counter starting at 1 instead of 0, etc.
 
 ## 📸 Demo
 <img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/4b6a5d81-79bc-4bdd-a3f4-54dead390af1" />
